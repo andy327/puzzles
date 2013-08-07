@@ -4,7 +4,8 @@ This is a place where I put miscellaneous puzzle-related projects. I've got a lo
 
 ## Four Cubes
 
-<div style="clear: both;text-align: center"><a href="http://www.jaapsch.net/puzzles/images/fourcube.jpg" style="clear: right;float: right;margin-bottom: 0em;margin-left: 1em;text-decoration:none"><img border="0" src="http://www.jaapsch.net/puzzles/images/fourcube.jpg" /><div style="width: 350px"></div></a></div>
+![fourcubepuzzle](http://www.jaapsch.net/puzzles/images/fourcube.jpg)
+
 This puzzle consists of four unique cubes of the same size, with each edge of a cube coloring one fourth of the incident faces a particular color. The cubes can make any of a number of arrangements, the most difficult one being a 2x2 square, but any two faces that are showing must match colors for the quarter-face that is incident to the shared edge. I had a version of the puzzle released by Binary Arts using three colors (yellow, purple, and red), titled the *Nearly Almost Perhaps Impossible Puzzle: Four Cube*. The following is reproduced by [Jaap's Puzzle Page](http://www.jaapsch.net/puzzles/fourcube.htm):
 
   >The Four Cube Impossible puzzle was created by Scott Nelson in 1971. This puzzle is based on the MacMahon Squares, the mathematically complete set of 24 colored puzzle squares discovered by Major P. A. MacMahon in the 1920s. Serious puzzle lovers have been challenged by these shapes for half a century, but not until Nelson's work had anyone solved how to place the 24 squares on the 24 faces of cubes so that all edges match. Amazingly enough, Scott was only nine years old when he made this discovery!
