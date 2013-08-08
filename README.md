@@ -4,7 +4,9 @@ This is a place where I put miscellaneous puzzle-related projects. I've got a lo
 
 ## Four Cubes
 
-![fourcubepuzzle](http://www.jaapsch.net/puzzles/images/fourcube.jpg)
+| ![four-cube puzzle](http://s10.postimg.org/s2vabtuzt/fourcube.jpg) | ![edge enumerations](http://s8.postimg.org/wfhc5zr5h/edge_enumerations.png) |
+|:----------------:|:--------------------------------:|
+| four-cube puzzle | enumeration of edges in the cube |
 
 This puzzle consists of four unique cubes of the same size, with each edge of a cube coloring one fourth of the incident faces a particular color. The cubes can make any of a number of arrangements, the most difficult one being a 2x2 square, but any two faces that are showing must match colors for the quarter-face that is incident to the shared edge. I had a version of the puzzle released by Binary Arts using three colors (yellow, purple, and red), titled the *Nearly Almost Perhaps Impossible Puzzle: Four Cube*. The following is reproduced by [Jaap's Puzzle Page](http://www.jaapsch.net/puzzles/fourcube.htm):
 
