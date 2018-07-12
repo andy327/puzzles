@@ -4,7 +4,7 @@ This is a place where I put miscellaneous puzzle-related projects. I've got a lo
 
 ## Four Cubes
 
-| ![four-cube puzzle](http://s10.postimg.org/s2vabtuzt/fourcube.jpg) | ![edge enumerations](http://s8.postimg.org/wfhc5zr5h/edge_enumerations.png) |
+| ![four-cube puzzle](https://i.imgur.com/QPnvpd0.jpg) | ![edge enumerations](https://i.imgur.com/pVmWKOD.png) |
 |:----------------:|:--------------------------------:|
 | four-cube puzzle | enumeration of edges in the cube |
 
